@@ -1,0 +1,6 @@
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\bin\Debug\PrintPattern.exe.config
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\bin\Debug\PrintPattern.exe
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\bin\Debug\PrintPattern.pdb
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\obj\Debug\PrintPattern.csprojResolveAssemblyReference.cache
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\obj\Debug\PrintPattern.exe
+c:\users\gaosh_000\documents\visual studio 2015\Projects\PrintPattern\PrintPattern\obj\Debug\PrintPattern.pdb
