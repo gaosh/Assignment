@@ -1,5 +1,0 @@
-F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
-F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
-F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
-F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
-F:\CSYE-6202-Spring2016-fizzbu\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
